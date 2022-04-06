@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/zsfVishnu/package-tester/issues"
   },
-  "homepage": "https://github.com/zsfVishnu/package-tester#readme"
+  "homepage": "https://github.com/zsfVishnu/package-tester#readme",
   "publishConfig" :  {
     "zsfvishnu:registry": "https://npm.pkg.github.com"
   }
